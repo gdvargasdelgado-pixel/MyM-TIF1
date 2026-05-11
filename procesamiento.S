@@ -40,4 +40,8 @@ tabla_estudiantes:
     .ascii "20260002"
     .asciz "Llaja Apaza, Aarom"
     .byte 0, 0
+
+    .ascii "20260003"
+    .asciz "Vargas Delgado, Gerardo"
+    .byte 0, 0
     ; ... más datos ...
